@@ -1,10 +1,9 @@
 # branches
 
 ## 1. Branches grow with you!
-- 내용: 브랜치를 생성하고 커밋을 추가하며 독립적인 작업 공간을 넓히는 흐름 이해
+- 사용한 명령어: git checkout, git checkout --detach, git add ., git commit
+- 내용: 커밋으로 직접 이동하는 detached HEAD 방식과 브랜치 라벨로 이동하는 방식을 비교하고 브랜치 상에서 새로운 커밋을 생성하는 흐름 학습
 
 ## 2. Deleting branches
-- 내용: 필요 없어진 브랜치를 삭제하는 git branch -d 명령어 학습
-
-## 3. Moving branches around
-- 내용: 브랜치 포인터를 다른 커밋 위치로 이동시키는 방법 학습
+- 사용한 명령어: git branch -D, git reset --hard
+- 내용: git branch -D 명령어를 사용하여 불필요한 브랜치를 강제 삭제하고, git reset --hard를 활용해 대상 이력 위치로 정렬하는 방법 학습
