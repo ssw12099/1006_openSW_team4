@@ -1,4 +1,6 @@
-Living dangerously
+# intro
+
+## Living dangerously
 
 Add another line to form.txt!
 txt 파일에 새로운 문장 추가
@@ -11,7 +13,7 @@ txt 파일에 새로운 문장 추가
 - new line #새로운 문장 추가
 
 
-Making bachups
+## Making bachups
 
 Add another line to form2_really_final.txt!
 4개의 파일중 form2_really_final.txt! 찾아 새로운 문장 추가
@@ -23,6 +25,8 @@ Add another line to form2_really_final.txt!
 - To track my projects over time
 - new line #새로운 문장 추가
 
-Enter the time machine
+
+## Enter the time machine
 
 Initialize the time machine!
+git-init 카드를 이용하여 초기화
