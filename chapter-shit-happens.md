@@ -2,7 +2,7 @@
 
 ## 1. Restore a deleted file
 ```sh
-
+git checkout essay
 ```
 
 
