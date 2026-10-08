@@ -23,4 +23,6 @@ Add another line to form2_really_final.txt!
 - To track my projects over time
 - new line #새로운 문장 추가
 
-Enter the
+Enter the time machine
+
+Initialize the time machine!
