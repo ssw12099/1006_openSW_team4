@@ -16,9 +16,11 @@ git commit -m "restored good version"
 
 ## 3. Undo a bad commit
 ```sh
-
+git reset [commit]
+git add .
+git commit -m "More numbers"
 ```
-
+More numberrrrrs commit 리셋, numbers 파일 수정, More numbers로 다시 커밋 
 
 ## 4. I pushed something broken
 ```sh
