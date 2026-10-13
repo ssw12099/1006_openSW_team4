@@ -22,9 +22,10 @@ git commit -m "More numbers"
 ```
 More numberrrrrs commit 리셋, numbers 파일 수정, More numbers로 다시 커밋 
 
-## 4. I pushed something broken
+## I pushed something broken
 ```sh
-
+git revert HEAD~1
+git push
 ```
 
 ## 5. Go back to where you were before
