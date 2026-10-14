@@ -27,5 +27,6 @@ git push
 
 ## 5. Go back to where you were before
 ```sh
-
+git reflog
+git checkout HEAD~7
 ```
